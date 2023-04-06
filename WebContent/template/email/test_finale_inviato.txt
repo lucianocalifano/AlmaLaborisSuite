@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC " -//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>    
+    <title>
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width">
+    <style type="text/css">    body, html {
+      width: 100% !important;
+      margin: 0;
+      padding: 0;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: none;
+      -ms-text-size-adjust: 100%;
+    }
+      table td, table {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+      #outlook a {
+        padding: 0;
+      }
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+        line-height: 100%;
+      }
+      .ExternalClass {
+        width: 100%;
+      }
+      @media only screen and (max-width: 480px) {
+        table, table tr td, table td {
+          width: 100% !important;
+        }
+        img {
+          width: inherit;
+        }
+        .layer_2 {
+          max-width: 100% !important;
+        }
+      }
+    </style>
+  </head>
+  <body style="padding: 0px; margin: 0px;">        
+    <table style="height: 100%; width: 100%; background-color: #efefef;" align="center">        
+      <tbody>            
+        <tr>                
+          <td valign="top" id="dbody" data-version="2.30" style="width: 100%; height: 100%; padding-top: 30px; padding-bottom: 30px; background-color: #efefef;">
+            <!--[if (gte mso 9)|(IE)]><table align="center" style="max-width:600px" width="600" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top"><![endif]-->                    
+            <table class="layer_1" align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; box-sizing: border-box; width: 100%; margin: 0px auto;">                        
+              <tbody>                            
+                <tr>                                
+                  <td class="drow" valign="top" align="center" style="background-color: #ffffff; box-sizing: border-box; font-size: 0px; text-align: center;">                                    
+                    <!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top"><![endif]-->
+                    <div class="layer_2" style="max-width: 600px; display: inline-block; vertical-align: top; width: 100%;">                                        
+                      <table class="edcontent" style="border-collapse: collapse;width:100%" border="0" cellpadding="0" cellspacing="0">                                            
+                        <tbody>                                                
+                          <tr>                                                    
+                            <td class="edimg" valign="top" style="padding: 9px; box-sizing: border-box; text-align: center;">                                                        
+                              <img style="border-width: 0px; border-style: none; max-width: 291px; width: 100%;" width="291" alt="Image" src="https://api.elasticemail.com/userfile/85fa9ed3-0bdd-4f54-b454-f5f7b4055df0/logo_brochure2.jpg">                                                    
+                            </td>                                                
+                          </tr>                                            
+                        </tbody>                                        
+                      </table>                                    
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->                                
+                  </td>                            
+                </tr>
+                <tr>
+                  <td class="drow" valign="top" align="center" style="background-color: #ffffff; box-sizing: border-box; font-size: 0px; text-align: center;">
+                    <!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top"><![endif]-->
+                    <div class="layer_2" style="max-width: 600px; display: inline-block; vertical-align: top; width: 100%;">    
+                      <table border="0" cellspacing="0" cellpadding="0" class="edcontent" style="border-collapse: collapse;width:100%">        
+                        <tbody>
+                          <tr>            
+                            <td valign="top" class="edimg" style="padding: 0px; box-sizing: border-box; text-align: center;"><img src="https://www.almalaborisformazione.it/al-includes/images/test_completo.jpg" alt="Image" style="border-width: 0px; border-style: none; max-width: 600px; width: 100%;" width="600">
+                            </td>        
+                          </tr>    
+                        </tbody>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                  </td>
+                </tr>
+                <tr>
+                  <td class="drow" valign="top" align="center" style="background-color: #ffffff; box-sizing: border-box; font-size: 0px; text-align: center;">
+                    <!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top"><![endif]-->
+                    <div class="layer_2" style="max-width: 600px; display: inline-block; vertical-align: top; width: 100%;">
+                      <table border="0" cellspacing="0" class="edcontent" style="border-collapse: collapse;width:100%">
+                        <tbody>
+                          <tr>
+                            <td class="edtext" style="padding: 20px; text-align: left; color: #5f5f5f; font-size: 12px; font-family: Helvetica, Arial, sans-serif; direction: ltr; box-sizing: border-box;" valign="top">
+                              <p style="margin: 0px; padding: 0px; text-align:justify;">Gentile 
+                                <strong>##USERNAME##</strong>, 
+                                <br><br />
+                                
+                                Le comunichiamo che tutte le risposte da Lei fornite sono state salvate sul nostro Server: provvederemo alla valutazione del test e a comunicarLe le risultanze in occasione della <b>Cerimonia di Chiusura</b>.<br /><br />
+                                Restiamo a disposizione per ogni necessit&agrave; e Le auguriamo una buona giornata.<br><br />
+                                <b>Segreteria</b>
+                              </p>
+                              
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                  </td>
+                </tr>
+                <tr>
+                  <td class="drow" valign="top" align="center" style="background-color: #ffffff; box-sizing: border-box; font-size: 0px; text-align: center;">
+                    <!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top"><![endif]-->
+                    <div class="layer_2" style="max-width: 600px; display: inline-block; vertical-align: top; width: 100%;">
+                      <table class="edcontent" style="border-collapse: collapse;width:100%" cellspacing="0" cellpadding="0" border="0">
+                        <tbody>
+                          <tr>
+                            <td class="breakline" style="padding: 0px;" valign="top">
+                              <div style="border-style: solid none none; border-width: 2px 0px 0px; margin: 8px 4px; border-top-color: #f2f2f2;">
+                              </div>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                  </td>
+                </tr>                                                                                     
+                <tr>                                
+                  <td class="drow" valign="top" align="center" style="background-color: #ffffff; box-sizing: border-box; font-size: 0px; text-align: center;">                                    
+                    <!--[if (gte mso 9)|(IE)]><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top"><![endif]-->
+                    <div class="layer_2" style="max-width: 600px; display: inline-block; vertical-align: top; width: 100%;">                                        
+                      <table class="edcontent" style="border-collapse: collapse;width:100%" border="0" cellpadding="0" cellspacing="0">                                            
+                        <tbody>                                                
+                          <tr>                                                    
+                            <td class="edtext" style="padding: 10px; text-align: left; color: #5f5f5f; font-size: 12px; font-family: Helvetica, Arial, sans-serif; direction: ltr; box-sizing: border-box;" valign="top">
+                              <table width="100%" border="0" style="margin-top:5px;">
+                              <tbody>
+                                <tr>
+                                  <td width="200">
+                                    <img src="https://www.almalaboris.com/2logo_alma_laboris_business_school.png" width="200" height="34" /></td>
+                                  <td width="1%">&nbsp;</td>
+                                  <td width="100%"><font face=Calibri><span style="text-align: justify; font-size: 9pt;">Piazza delle Cinque Scole n. 23 - 00186 ROMA<br />
+                                    Tel.: (+39) 06 33 48 33 11 - Fax: (+39) 06 97 85 87 11 <br />
+                                    <a href="https://www.almalaboris.it" target="_blank">www.almalaboris.it</a> - <a href="mailto:info@almalaboris.it">info@almalaboris.it</a></span></font></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <p style="text-align: justify; margin-top:5px;"><span style="font-size: 8pt;"><font color="#666666"  face="Calibri"><em>Le informazioni contenute nella presente comunicazione ed i relativi allegati possono essere riservate e sono, comunque, destinate esclusivamente alle Persone o alla Societ&agrave; sopraindicati e non sono da considerarsi comunicazioni personali: eventuali risposte, quindi, potranno essere conosciute da persone appartenenti all&#180;Azienda.
+                              La diffusione, distribuzione e/o copiatura del documento trasmesso da parte di qualsiasi soggetto diverso dal destinatario &egrave; proibita ai sensi dell&#180;art. 616 c.p..</em></font></span></p>
+                            </td>                                                
+                          </tr>                                            
+                        </tbody>                                        
+                      </table>                                    
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->                                
+                  </td>                            
+                </tr>                                                                                                            
+              </tbody>                    
+            </table>                
+            <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+          </td>            
+        </tr>        
+      </tbody>    
+    </table>
+  </body>
+</html>
